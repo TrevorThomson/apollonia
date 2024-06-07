@@ -1,2 +1,2 @@
-Coursera Apollonia Dental project
----------------------------------
+Coursera Project: employee management for Apollonia Dental company
+--
